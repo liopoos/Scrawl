@@ -9,8 +9,10 @@
 - header.php
 - style.css
 - archive.php
+
 ## add  ##
 - about.php
+- link.php
 
 
 
